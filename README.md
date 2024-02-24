@@ -110,12 +110,10 @@ hoofdkeuzes toe aan je venster:
 
 ![Afbeelding met tekst, schermopname, software, computer Automatisch
 gegenereerde
-beschrijving](./media/image1.png){width="6.399305555555555in"
-height="5.634027777777778in"}
+beschrijving](./media/image1.png)
 
 ***Afdrukvoorbeeld met samenvatting (per maand) van gegevens:***
 
 ![Afbeelding met tekst, elektronica, schermopname, software Automatisch
 gegenereerde
-beschrijving](./media/image2.png){width="6.399305555555555in"
-height="5.634027777777778in"}
+beschrijving](./media/image2.png)
